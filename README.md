@@ -1,20 +1,20 @@
-# Dise de Software
+# Dise帽o de Software
 
-## Informaci General
+## Informaci贸n General
 
- - Asignatura: Dise de Software
- - Cigo: UCOM0310
- - pERIODO: PEL 4 - 2026
+ - Asignatura: Dise帽o de Software
+ - C贸digo: UCOM0310
+ - Periodo: PEL 4 - 2026
  - Estudiante: Esteban Navarrete
  - Docente: Ph.D. Jaime Paul Sayago Heredia
 
-## Descripci
+## Descripci贸n
 
-Este repositorio contiene las actividades y avances desarrollados durante la asignatura Dise de Software
+Este repositorio contiene las actividades y avances desarrollados durante la asignatura Dise帽o de Software
 
 ## Objetivo del proyecto
 
-Aplicar principio de dise orientado a objetos para desarrollar software robusto, mantenible, escalable y comprobable.
+Aplicar principio de dise帽o orientado a objetos para desarrollar software robusto, mantenible, escalable y comprobable.
 
 ## Herramientas
 
@@ -24,13 +24,13 @@ Aplicar principio de dise orientado a objetos para desarrollar software robust
  - GitHub
  - JUnit
 
-##Estructura
+## Estructura
 
- - `src/main/java`: cigo fuente.
+ - `src/main/java`: c贸digo fuente.
  - `src/test/java`: pruebas.
- - `pom.xml`: configuraci del proyecto Maven.
+ - `pom.xml`: configuraci贸n del proyecto Maven.
 
-## Ejecuci
+## Ejecuci贸n
 
 Para compilar: `mvn clean compile`
 
@@ -38,7 +38,7 @@ Para ejecutar pruebas: `mvn test`
 
 ## Estado
 
-Configuraci inicial completada.
+Configuraci贸n inicial completada.
 
 ## Autor
 
